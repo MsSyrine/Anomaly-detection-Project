@@ -1,0 +1,1 @@
+Placholder for collecting generated figures via the notebooks

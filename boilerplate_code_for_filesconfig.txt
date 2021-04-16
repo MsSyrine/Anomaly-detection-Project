@@ -1,0 +1,52 @@
+evt_min_v1.csv #rabbitmq events regrouped by minute ,initial dataset
+
+evt_sec_v1.csv #rabbitmq events regrouped by sec ,initial dataset
+
+channels_v1.csv
+
+connect_v1.csv
+
+consum_v1.csv
+
+binding_v1.csv
+
+queue_v1.csv
+
+user_v1.csv
+
+exchange_v1.csv
+
+perm_v1.csv
+
+
+-------
+evt_min_v2.csv #rabbitmq events regrouped by min ,production environement dataset
+
+evt_sec_v2.csv #rabbitmq events regrouped by sec ,production environement dataset
+
+channels_v2.csv
+
+connect_v2.csv
+
+consum_v2.csv
+
+binding_v2.csv
+
+queue_v2.csv
+
+user_v2.csv
+
+exchange_v2.csv
+
+perm_v2.csv 
+
+***********************************************************
+channels_v1_path = proc_data_dir /'channels_v1.csv'
+connect_v1_path = proc_data_dir / 'connect_v1.csv'
+consum_v1_path = proc_data_dir / 'consum_v1.csv'
+bind_v1_path = proc_data_dir / 'binding_v1.csv'
+queue_v1_path = proc_data_dir / 'queue_v1.csv'
+user_v1_path = proc_data_dir / 'user_v1.csv'
+exchange_v1_path = proc_data_dir / 'exchange_v1.csv'
+perm_v1_path = proc_data_dir / 'perm_v1.csv'
+
